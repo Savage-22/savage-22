@@ -63,4 +63,4 @@
 ⭐ *"Learning never stops, and the best projects are yet to come."*
 
 
-Credits: Yo y Ella ♡
+Credits: Ella y Yo ♡
