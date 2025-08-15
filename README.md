@@ -15,9 +15,9 @@
 - 📚 Exchange program at **UNICAMP**, Brazil  
 - 🎂 20 years old  
 - 🌱 Currently learning **JavaScript, HTML, CSS, Tailwind, Node.js, Express.js, C, Linux Mint**  
-- 🛠 Git (basic)  
+- 🛠 Git
 - 🎯 Goal: Become a **Full Stack Web Developer**  
-- 🌎 Languages: **Spanish (Native)**, **English (Intermediate)**, **Portuguese (Basic)**  
+- 🌎 Languages: **Spanish (Native)**, **English (Basic)**, **Portuguese (Basic)**  
 - 🤝 Open to collaboration on beginner-friendly projects
 </div>
 
