@@ -8,7 +8,7 @@
 </p>
 
 <div>
-  <img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpvbmNzdzJlYmllMnF1cjd3aHlzaDJuZ2tlenBpNnVxeXJybnh1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
+  <img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmwycWFnOG81OGY1Y241cmluajBkdHUxaWdyaGhoNXhlMjRiNWs2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
   
 ### 👨‍💻 About Me
 - 🎓 Student at **Universidad Nacional Hermilio Valdizán (UNHEVAL)**, Huánuco, Peru  
