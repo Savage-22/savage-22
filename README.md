@@ -64,7 +64,7 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Savage-22&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165" alt="GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Savage-22&theme=prussian" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Savage-22&theme=buefy-dark&card_width=430&card_height=100" alt="GitHub Streak" /></a>
 </p>
 
 ---
