@@ -65,6 +65,8 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Savage-22&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Savage-22&theme=tokyonight&timezone=America%2FLima&cache_seconds=1800" height="165" alt="GitHub Streak Stats" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Savage-22&theme=prussian)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Savage-22&theme=prussian" alt="GitHub Streak" /></a>
 </p>
 
 ---
