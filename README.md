@@ -63,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Savage-22&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Savage-22&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Savage-22&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Savage-22&theme=tokyonight&timezone=America%2FLima&cache_seconds=1800" height="165" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -72,3 +72,4 @@
 ⭐ *"Learning never stops, and the best projects are yet to come."*
 ---
 
+En las buenas y en las malas ♡
